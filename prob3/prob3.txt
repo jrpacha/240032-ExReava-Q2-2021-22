@@ -1,0 +1,10 @@
+Prob. 3
+(a) Number of nodes in the boundary of the hole centered at (6,1): 28
+(b) The value of K^{50}(2,3) is K^{50}(2,3) = -1.2803e+00
+    Hint. K(1,1) = 2.6338e+00
+(c) The mean value of the temperature in the nodes, <u> = 2.9750e+01
+    Hint. The maximum value of the temperature at the nodes is
+          max u = 3.8340e+01
+(d) The temperature for the point p of the element 37 with barycentric
+    coordinates (0.25,0.25,0.5) is T = 3.7052e+01
+    Hint. T(4,2) = 3.6732e+01

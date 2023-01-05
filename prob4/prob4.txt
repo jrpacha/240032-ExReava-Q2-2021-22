@@ -1,0 +1,13 @@
+Prob 4
+(a) Mean of the y-component of the nodes in the top boundary
+    of the domain (without the two corners): 9.9899e-01
+    Hint. The number of nodes (without the corners) in the
+          top boundary of the domain is 99
+(b) The maximum of the absolute value of the vertical
+    displacement of the nodes 1.3213e-04
+    Hint. The maximum of the absolute value of the horizontal
+          displacement fo the nodes 5.8519e-05
+(c) Node in which it reaches the maximum of the norm in the
+    displacement 422
+(d) The Von Misses stress of element 198 is sigmaVM(198) =
+ 7.0943e+03
